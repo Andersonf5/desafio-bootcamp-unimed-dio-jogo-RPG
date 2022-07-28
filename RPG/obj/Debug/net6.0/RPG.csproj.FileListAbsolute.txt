@@ -1,0 +1,15 @@
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\bin\Debug\net6.0\RPG.exe
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\bin\Debug\net6.0\RPG.dll
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.dll
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\refint\RPG.dll
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Users\anderson.silva\Desktop\Bootcamp\Aulas\Desafios\Desafio Jogo RPG\desafio-bootcamp-unimed-dio-jogo-RPG\RPG\obj\Debug\net6.0\ref\RPG.dll
