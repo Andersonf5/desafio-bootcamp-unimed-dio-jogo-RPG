@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anderson.silva\\.nuget\\packages\\": {}
+    "C:\\Users\\ander\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anderson.silva\\Desktop\\Bootcamp\\Aulas\\Desafios\\Desafio Jogo RPG\\desafio-bootcamp-unimed-dio-jogo-RPG\\RPG\\RPG.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\OneDrive\\Área de Trabalho\\Bootcamp\\desafio-bootcamp-unimed-dio-jogo-RPG\\RPG\\RPG.csproj",
       "projectName": "RPG",
-      "projectPath": "C:\\Users\\anderson.silva\\Desktop\\Bootcamp\\Aulas\\Desafios\\Desafio Jogo RPG\\desafio-bootcamp-unimed-dio-jogo-RPG\\RPG\\RPG.csproj",
-      "packagesPath": "C:\\Users\\anderson.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anderson.silva\\Desktop\\Bootcamp\\Aulas\\Desafios\\Desafio Jogo RPG\\desafio-bootcamp-unimed-dio-jogo-RPG\\RPG\\obj\\",
+      "projectPath": "C:\\Users\\ander\\OneDrive\\Área de Trabalho\\Bootcamp\\desafio-bootcamp-unimed-dio-jogo-RPG\\RPG\\RPG.csproj",
+      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ander\\OneDrive\\Área de Trabalho\\Bootcamp\\desafio-bootcamp-unimed-dio-jogo-RPG\\RPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anderson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

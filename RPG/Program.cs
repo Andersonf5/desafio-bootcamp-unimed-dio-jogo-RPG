@@ -5,10 +5,18 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Arus hero = new Arus("Arus",23,"Knigth");
-        Arus wizard = new Arus("Jennica",23,"White Wizard");
+        knigth arus = new knigth("Arus",42,"Knigth","469 / 479","72 / 72");
+        Ninja  wedge = new Ninja("Wedge", 42,"Ninja","292 / 579","89 / 89");
+        Wizard jennica = new Wizard("Jennica",42,"White Wizard","325 / 601","474 / 482");        
+        Wizard topapa = new Wizard("Topapa",42,"Black Wizard","106 / 385","611 / 641");
 
-        Console.WriteLine(hero.Attack());
-        Console.WriteLine(wizard.ToString()+ " " +wizard.Attack());
+        Console.WriteLine(arus.display());
+        Console.WriteLine(wedge.display());
+        Console.WriteLine(jennica.display());
+        Console.WriteLine(topapa.display());
+
+
+
+
 }
 }
